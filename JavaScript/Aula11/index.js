@@ -1,4 +1,4 @@
-//Atribuição via desestruturação
+//Atribuição via desestruturação com Arrays
 
 
 /*
